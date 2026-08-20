@@ -98,7 +98,11 @@ Se utilizan para mostrar los resultados principales de capacidad e impacto finan
 
 Ejemplos:
 
-```text
+
 3.2 MW
 32%
 $420K – $680K
+
+
+Figma: [Agregar enlace a Figma]
+```text
