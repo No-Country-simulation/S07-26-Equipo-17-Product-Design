@@ -1,5 +1,4 @@
 # 📊 PhysaFlow — Capacity Calculator
-> **S07-26-Equipo-17-Product-Design**
 
 Proyecto colaborativo para el diseño de una calculadora interactiva que permite a operadores de Data Centers estimar la capacidad desperdiciada (*Stranded Capacity*) y su impacto financiero anual en menos de 3 minutos.
 
