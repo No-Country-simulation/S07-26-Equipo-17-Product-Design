@@ -104,5 +104,5 @@ Ejemplos:
 $420K – $680K
 
 
-Figma: [Agregar enlace a Figma]
+##  Figma: [Agregar enlace a Figma]
 
