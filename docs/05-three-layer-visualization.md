@@ -9,8 +9,7 @@ El flujo permite identificar de forma visual dónde se produce la pérdida de ca
 ---
 
 ## 🔄 Flujo General
-
-
+```text
 FACILITY
    ↓
 IT CAPACITY
@@ -18,7 +17,7 @@ IT CAPACITY
 AVAILABLE IT
    ↓
 EFFECTIVE WORKLOAD
-
+```
 
 ![](https://github.com/No-Country-simulation/S07-26-Equipo-17-Product-Design/blob/main/docs/3%20layers.png)
 
