@@ -107,7 +107,7 @@ El análisis ampliado incluye:
 
 La visualización principal representa el flujo de capacidad:
 
-
+```text
 Facility
    ↓
 IT
