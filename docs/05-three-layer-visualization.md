@@ -19,6 +19,9 @@ AVAILABLE IT
    ↓
 EFFECTIVE WORKLOAD
 
+
+![](https://github.com/No-Country-simulation/S07-26-Equipo-17-Product-Design/blob/main/docs/3%20layers.png)
+
 🎨 Representación Visual
 Cada barra representa una capacidad diferente dentro del flujo.
 
