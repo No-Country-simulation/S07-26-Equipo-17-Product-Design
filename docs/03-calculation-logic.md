@@ -74,6 +74,3 @@ Pérdida anual estimada: [rango calculado]
 
 
 
-```text
-
-![](https://github.com/No-Country-simulation/S07-26-Equipo-17-Product-Design/blob/main/docs/calculo.png)
