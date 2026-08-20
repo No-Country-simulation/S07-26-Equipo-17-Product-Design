@@ -59,7 +59,7 @@ PhysaFlow permite transformar información básica de un Data Center en una esti
 
 ## 🔄 Core User Journey
 
-
+```text
 Input
   ↓
 Basic Result
