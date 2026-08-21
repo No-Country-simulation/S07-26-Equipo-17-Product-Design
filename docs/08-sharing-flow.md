@@ -51,9 +51,11 @@ $420 000 – $680 000
 Desglose
 ```text
 Facility → IT → Workload
-```
+
 CTA
 Calcula el tuyo →
+```
+
 
 🎯 Objetivo de Diseño
 El resultado compartido debe generar curiosidad y motivar al receptor a conocer su propia situación.
