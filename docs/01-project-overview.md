@@ -4,6 +4,16 @@ Proyecto colaborativo para el diseño de una calculadora interactiva que permite
 
 ---
 
+## 🎨 YouTube
+
+### Video demostración
+
+[Ver video en YouTube] (https://www.youtube.com/watch?v=EymB09KfclY)
+
+
+---
+
+
 ## 💡 Objetivo
 
 Diseñar una experiencia rápida, clara y sin fricción que permita a cualquier operador de Data Center ingresar información básica de su facility y obtener inmediatamente una estimación de:
