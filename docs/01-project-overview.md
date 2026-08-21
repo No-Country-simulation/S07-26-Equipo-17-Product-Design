@@ -8,7 +8,7 @@ Proyecto colaborativo para el diseño de una calculadora interactiva que permite
 
 ### Video demostración
 
-[Ver video en YouTube] [![](https://markdown-videos.deta.dev/youtube/EymB09KfclY)](https://youtu.be/EymB09KfclY?si=bjAREp1heLyaRAXr)
+ [![](https://markdown-videos.deta.dev/youtube/EymB09KfclY)](https://www.youtube.com/watch?v=EymB09KfclY)
 
 
 ---
