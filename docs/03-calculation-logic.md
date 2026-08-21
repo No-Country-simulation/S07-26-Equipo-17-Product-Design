@@ -48,7 +48,7 @@ Los servidores se sumergen por completo en tanques llenos de un líquido dieléc
 Por qué tiene ese PUE:
 Es la tecnología más eficiente del mercado. Elimina al 100 % los ventiladores de los servidores y el flujo de aire en el edificio, requiriendo energía casi exclusivamente para pequeñas bombas de circulación y disipación externa.
 
-
+---
 
 ![](https://github.com/No-Country-simulation/S07-26-Equipo-17-Product-Design/blob/main/docs/calculo.png)
 
