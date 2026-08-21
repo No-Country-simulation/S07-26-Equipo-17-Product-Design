@@ -19,7 +19,7 @@ AVAILABLE IT
 EFFECTIVE WORKLOAD
 ```
 
-![](https://github.com/No-Country-simulation/S07-26-Equipo-17-Product-Design/blob/main/docs/3%20layers.png)
+![](https://github.com/No-Country-simulation/S07-26-Equipo-17-Product-Design/blob/main/docs/capacity%20breakdown.png)
 
 🎨 Representación Visual
 Cada barra representa una capacidad diferente dentro del flujo.
