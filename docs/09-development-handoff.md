@@ -15,7 +15,7 @@ El objetivo del handoff es reducir ambigüedades y evitar que el equipo de desar
 
 ### Prototipo interactivo
 
-[INSERTAR ENLACE DEL PROTOTIPO]
+[Ver prototipo navegable](https://www.figma.com/proto/1XEQQgMIuC2ICZ8xW9tEbn/PhysaFlow-Calculator?node-id=12234-1424&p=f&t=P2pYA1iHtPX7uG13-1&scaling=min-zoom&content-scaling=fixed&page-id=12234%3A1143&starting-point-node-id=12234%3A1424)
 
 ---
 
